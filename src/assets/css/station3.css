@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+div {
+  background-color: #fff;
+}
+
+.card {
+  padding: 5px;
+  background-color: #fff;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+.card__img-top {
+  width: 288px;
+  height: 182px;
+}
+
+/* タイトル */
+.card__title {
+  color: #282828;
+  font-size: 14px;
+}
+
+/* 説明 */
+.card__description {
+  color: #282828;
+  font-size: 12px;
+}
